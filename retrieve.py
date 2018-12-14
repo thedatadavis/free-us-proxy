@@ -5,7 +5,7 @@ def get_proxies():
     
     anonymity = { 'elite proxy' : {'ip' : True, 'proxy' : True},
                  'anonymous' : {'ip' : True, 'proxy' : False},
-                 'transparent' : {'ip' : False, 'proxy' : True},
+                 'transparent' : {'ip' : False, 'proxy' : False},
     }
     
     r = requests.get('https://www.us-proxy.org/')
