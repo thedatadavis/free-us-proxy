@@ -23,5 +23,5 @@ There are 3 levels of proxies according to their anonymity.
 - Level 2 - Anonymous Proxy: The web server can know you are using a proxy, but it can't know your real IP.
 - Level 3 - Transparent Proxy: The web server can know you are using a proxy and it can also know your real IP.
 
-I split these into two attributes `is_ip_hidden` and `is_proxy_hidden`
+I split these into two attributes `is_ip_hidden` and `is_proxy_hidden`. E.g. Level 2 is `True` and `False`, respectively.
 
