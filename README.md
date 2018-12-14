@@ -1,7 +1,7 @@
 # free-us-proxy
 Pulls list of free US proxies from www.us-proxy.org
 
-Wrote this little script to replace copy and pasting from the site directly. It only returns a list of all the ip addresses that resolve https.
+Wrote this little script to replace copy and pasting from the site directly. It only returns a list of the ip addresses that resolve https.
 
 Example response:
 
