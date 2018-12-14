@@ -5,14 +5,16 @@ Wrote this little script to replace copy and pasting from the site directly. It 
 
 Example response:
 
-`[{'ip_address': '206.189.184.18:3128',
+```
+[{'ip_address': '206.189.184.18:3128',
   'is_ip_hidden': True,
   'is_proxy_hidden': True,
   'last_checked': '19 seconds ago'},
  {'ip_address': '192.241.129.232:80',
   'is_ip_hidden': True,
   'is_proxy_hidden': True,
-  'last_checked': '19 seconds ago'}]`
+  'last_checked': '19 seconds ago'}]
+  ```
  
   
 **A note on proxy anonymity from the site FAQs:**
